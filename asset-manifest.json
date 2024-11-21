@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.50d12e78.css",
-    "main.js": "/static/js/main.1929ff98.js",
+    "main.css": "/static/css/main.ea1a0787.css",
+    "main.js": "/static/js/main.0a573323.js",
     "static/media/routes_names.png": "/static/media/routes_names.2f44f6c458bac482a89b.png",
     "static/media/places_names.png": "/static/media/places_names.a67085a6aeb91a1792e1.png",
     "static/media/names.png": "/static/media/names.34bbf1e6f14e6b662d5a.png",
@@ -40,9 +40,11 @@
     "static/media/2model_vis_bar.png": "/static/media/2model_vis_bar.99a7e09efbf47f16743e.png",
     "static/media/3cate_vis_bar.png": "/static/media/3cate_vis_bar.d1e00d9e4a79b37d12a1.png",
     "static/media/data_distribution.png": "/static/media/data_distribution.7661c78dc92bc50d1089.png",
+    "static/media/Thesis_Proposal-Yuhan_Wang.pdf": "/static/media/Thesis_Proposal-Yuhan_Wang.06af5db387a720bdcc4b.pdf",
     "static/media/logo.png": "/static/media/logo.92eda1a35cf26fa431cf.png",
     "static/media/CV_Yuhan_Wang.pdf": "/static/media/CV_Yuhan_Wang.f9898adb2b630f1ed163.pdf",
     "static/media/mystery_pred.png": "/static/media/mystery_pred.da84114195ff1b0d3d43.png",
+    "static/media/ai_poster.png": "/static/media/ai_poster.0be25a802bcdde93c10f.png",
     "static/media/guerilla_girl.jpg": "/static/media/guerilla_girl.8b172d82c8dca51ac64b.jpg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -54,11 +56,11 @@
     "static/media/instagram.svg": "/static/media/instagram.39f41d53112b92691955e6702a973c71.svg",
     "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.fdefdd86a9c85d406d18bacc47c433c7.svg",
     "static/media/emailIcon.svg": "/static/media/emailIcon.f4793796a6b4e696ef3cd96de241adfd.svg",
-    "main.50d12e78.css.map": "/static/css/main.50d12e78.css.map",
-    "main.1929ff98.js.map": "/static/js/main.1929ff98.js.map"
+    "main.ea1a0787.css.map": "/static/css/main.ea1a0787.css.map",
+    "main.0a573323.js.map": "/static/js/main.0a573323.js.map"
   },
   "entrypoints": [
-    "static/css/main.50d12e78.css",
-    "static/js/main.1929ff98.js"
+    "static/css/main.ea1a0787.css",
+    "static/js/main.0a573323.js"
   ]
 }
