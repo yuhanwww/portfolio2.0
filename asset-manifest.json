@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea1a0787.css",
-    "main.js": "/static/js/main.ba5d18f7.js",
+    "main.css": "/static/css/main.d3cbd56f.css",
+    "main.js": "/static/js/main.6b026561.js",
     "static/media/routes_names.png": "/static/media/routes_names.2f44f6c458bac482a89b.png",
     "static/media/places_names.png": "/static/media/places_names.a67085a6aeb91a1792e1.png",
     "static/media/names.png": "/static/media/names.34bbf1e6f14e6b662d5a.png",
@@ -12,11 +12,12 @@
     "static/media/working.png": "/static/media/working.e7fafe3b09a5be515a4f.png",
     "static/media/names_overlayed.png": "/static/media/names_overlayed.02fa22a0d7bbe4f4692d.png",
     "static/media/flipBrasil.png": "/static/media/flipBrasil.d2f9b286bd83e8a57c6e.png",
-    "static/media/bat_detection.png": "/static/media/bat_detection.0c9ee0c261c77920bf63.png",
+    "static/media/conf_mtx_wordcloud.png": "/static/media/conf_mtx_wordcloud.0c9ee0c261c77920bf63.png",
     "static/media/stupid_ml.png": "/static/media/stupid_ml.d4e3d89c2370edf55326.png",
     "static/media/nurseshavehair.png": "/static/media/nurseshavehair.ec478009c341379a8791.png",
     "static/media/exploreCSR.png": "/static/media/exploreCSR.a257f8975d6b815ff546.png",
     "static/media/mother_claw.JPG": "/static/media/mother_claw.97c3da7e75e42a2dbdbc.JPG",
+    "static/media/style_transfer.png": "/static/media/style_transfer.6e56e3618252e795a1be.png",
     "static/media/campus_map.png": "/static/media/campus_map.ef740cbeab355c91eb5a.png",
     "static/media/inspiration.png": "/static/media/inspiration.55e8a652b623ac8b2ec5.png",
     "static/media/self_writing_zoom.png": "/static/media/self_writing_zoom.4eb92d4a8c2710186099.png",
@@ -27,12 +28,14 @@
     "static/media/valetbike.png": "/static/media/valetbike.e0f4f8c9009c5f53cecc.png",
     "static/media/TDA_on_Phyllotaxis_Collaboration_Poster.png": "/static/media/TDA_on_Phyllotaxis_Collaboration_Poster.6515f550819954ce004f.png",
     "static/media/hexagons.png": "/static/media/hexagons.640f9c5685f816645d68.png",
+    "static/media/NYBG_data_snippet.png": "/static/media/NYBG_data_snippet.2e58f9cf1607e16c0157.png",
     "static/media/makersmap.png": "/static/media/makersmap.107297fa947506d6f185.png",
     "static/media/wechat_prototype.png": "/static/media/wechat_prototype.b8f602299b07c9bf1565.png",
     "static/media/Sample_from_Data.png": "/static/media/Sample_from_Data.ab3e69fb93e7ed6d1a5e.png",
     "static/media/myster_art_recognizer.png": "/static/media/myster_art_recognizer.ab3e69fb93e7ed6d1a5e.png",
     "static/media/Image_Augmentation.png": "/static/media/Image_Augmentation.5f0437c670e214e7b69f.png",
     "static/media/r3.PNG": "/static/media/r3.705a15862f0e34de6871.PNG",
+    "static/media/2model_comparison.png": "/static/media/2model_comparison.56e4537bcd8f6e0ca07d.png",
     "static/media/example_disk.png": "/static/media/example_disk.61f0aab8bc4af2474a43.png",
     "static/media/profile.jpg": "/static/media/profile.cc6adbbddeb96dc9f7c0.jpg",
     "static/media/megatile.png": "/static/media/megatile.9b09cde0e795f376b2b1.png",
@@ -40,6 +43,7 @@
     "static/media/2model_vis_bar.png": "/static/media/2model_vis_bar.99a7e09efbf47f16743e.png",
     "static/media/3cate_vis_bar.png": "/static/media/3cate_vis_bar.d1e00d9e4a79b37d12a1.png",
     "static/media/data_distribution.png": "/static/media/data_distribution.7661c78dc92bc50d1089.png",
+    "static/media/approach.png": "/static/media/approach.ea5ffb234768fd47f719.png",
     "static/media/Thesis_Proposal-Yuhan_Wang.pdf": "/static/media/Thesis_Proposal-Yuhan_Wang.06af5db387a720bdcc4b.pdf",
     "static/media/logo.png": "/static/media/logo.92eda1a35cf26fa431cf.png",
     "static/media/CV_Yuhan_Wang.pdf": "/static/media/CV_Yuhan_Wang.f9898adb2b630f1ed163.pdf",
@@ -52,15 +56,16 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "static/media/githubIcon.svg": "/static/media/githubIcon.348158518d2a0b9db87d2a4d860a8b2d.svg",
+    "static/media/arrow.svg": "/static/media/arrow.9f18f949df8904767d9cdc8745ce41a0.svg",
     "static/media/cvIcon.svg": "/static/media/cvIcon.359ce6ada76a4d79aee86d20e33336ab.svg",
     "static/media/instagram.svg": "/static/media/instagram.39f41d53112b92691955e6702a973c71.svg",
     "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.fdefdd86a9c85d406d18bacc47c433c7.svg",
     "static/media/emailIcon.svg": "/static/media/emailIcon.f4793796a6b4e696ef3cd96de241adfd.svg",
-    "main.ea1a0787.css.map": "/static/css/main.ea1a0787.css.map",
-    "main.ba5d18f7.js.map": "/static/js/main.ba5d18f7.js.map"
+    "main.d3cbd56f.css.map": "/static/css/main.d3cbd56f.css.map",
+    "main.6b026561.js.map": "/static/js/main.6b026561.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea1a0787.css",
-    "static/js/main.ba5d18f7.js"
+    "static/css/main.d3cbd56f.css",
+    "static/js/main.6b026561.js"
   ]
 }
