@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.897a7fd3.css",
-    "main.js": "/static/js/main.871f302d.js",
+    "main.css": "/static/css/main.622b3ae0.css",
+    "main.js": "/static/js/main.18c5192a.js",
     "static/media/routes_names.png": "/static/media/routes_names.2f44f6c458bac482a89b.png",
     "static/media/places_names.png": "/static/media/places_names.a67085a6aeb91a1792e1.png",
     "static/media/names.png": "/static/media/names.34bbf1e6f14e6b662d5a.png",
@@ -9,13 +9,25 @@
     "static/media/places_routes.png": "/static/media/places_routes.a054480f97d88d0a045f.png",
     "static/media/yuhan_map.png": "/static/media/yuhan_map.3c4da985ce3335accf68.png",
     "static/media/places.png": "/static/media/places.8fb2d2f5d565be30e56b.png",
+    "static/media/final.png": "/static/media/final.bcdd43d4d024cad53041.png",
     "static/media/working.png": "/static/media/working.e7fafe3b09a5be515a4f.png",
     "static/media/names_overlayed.png": "/static/media/names_overlayed.02fa22a0d7bbe4f4692d.png",
+    "static/media/create_3.png": "/static/media/create_3.2f8304d91025f75a009f.png",
     "static/media/flipBrasil.png": "/static/media/flipBrasil.d2f9b286bd83e8a57c6e.png",
+    "static/media/create_2.png": "/static/media/create_2.e31394dbe99220da3a84.png",
+    "static/media/info_2.png": "/static/media/info_2.4dff2f38033f505332fa.png",
+    "static/media/initial.png": "/static/media/initial.606a1a01be07c3b72443.png",
+    "static/media/create_1.JPG": "/static/media/create_1.45e6528bc6768255333f.JPG",
+    "static/media/start.JPG": "/static/media/start.d9b05169304b69153c76.JPG",
     "static/media/conf_mtx_wordcloud.png": "/static/media/conf_mtx_wordcloud.0c9ee0c261c77920bf63.png",
     "static/media/stupid_ml.png": "/static/media/stupid_ml.d4e3d89c2370edf55326.png",
+    "static/media/explanation.JPG": "/static/media/explanation.6a9009c0cbc67a28cedf.JPG",
+    "static/media/self_collection.JPG": "/static/media/self_collection.3201497bf0839254b541.JPG",
+    "static/media/self_writing_whole.JPG": "/static/media/self_writing_whole.2e6b5ea3cc9a68eadd18.JPG",
     "static/media/nurseshavehair.png": "/static/media/nurseshavehair.ec478009c341379a8791.png",
     "static/media/exploreCSR.png": "/static/media/exploreCSR.a257f8975d6b815ff546.png",
+    "static/media/random_writing_2.JPG": "/static/media/random_writing_2.ec6a86c0a9f364da5ed7.JPG",
+    "static/media/random_writing_1.JPG": "/static/media/random_writing_1.34187ed11f4f5b2ba541.JPG",
     "static/media/mother_claw.JPG": "/static/media/mother_claw.97c3da7e75e42a2dbdbc.JPG",
     "static/media/style_transfer.png": "/static/media/style_transfer.6e56e3618252e795a1be.png",
     "static/media/campus_map.png": "/static/media/campus_map.ef740cbeab355c91eb5a.png",
@@ -38,12 +50,14 @@
     "static/media/2model_comparison.png": "/static/media/2model_comparison.56e4537bcd8f6e0ca07d.png",
     "static/media/example_disk.png": "/static/media/example_disk.61f0aab8bc4af2474a43.png",
     "static/media/profile.jpg": "/static/media/profile.cc6adbbddeb96dc9f7c0.jpg",
-    "static/media/megatile.png": "/static/media/megatile.9b09cde0e795f376b2b1.png",
+    "static/media/megatile.png": "/static/media/megatile.4b0dbaa3d44ae57b3e82.png",
+    "static/media/line_art_cropped.jpeg": "/static/media/line_art_cropped.b1fa0e50a01616dcd0ed.jpeg",
     "static/media/2model_vis_conf.png": "/static/media/2model_vis_conf.d79b19788bc7f4d2287d.png",
     "static/media/2model_vis_bar.png": "/static/media/2model_vis_bar.99a7e09efbf47f16743e.png",
     "static/media/3cate_vis_bar.png": "/static/media/3cate_vis_bar.d1e00d9e4a79b37d12a1.png",
     "static/media/data_distribution.png": "/static/media/data_distribution.7661c78dc92bc50d1089.png",
     "static/media/approach.png": "/static/media/approach.ea5ffb234768fd47f719.png",
+    "static/media/papunya_tula.jpg": "/static/media/papunya_tula.b828cecee7d3dcd6875c.jpg",
     "static/media/Thesis_Proposal-Yuhan_Wang.pdf": "/static/media/Thesis_Proposal-Yuhan_Wang.06af5db387a720bdcc4b.pdf",
     "static/media/logo.png": "/static/media/logo.92eda1a35cf26fa431cf.png",
     "static/media/CV_Yuhan_Wang.pdf": "/static/media/CV_Yuhan_Wang.f9898adb2b630f1ed163.pdf",
@@ -61,11 +75,11 @@
     "static/media/instagram.svg": "/static/media/instagram.ee7f754d9a9865df8656a316bb9d3df9.svg",
     "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.ca59de7dbde6b9c5565004912352c7f1.svg",
     "static/media/emailIcon.svg": "/static/media/emailIcon.f4793796a6b4e696ef3cd96de241adfd.svg",
-    "main.897a7fd3.css.map": "/static/css/main.897a7fd3.css.map",
-    "main.871f302d.js.map": "/static/js/main.871f302d.js.map"
+    "main.622b3ae0.css.map": "/static/css/main.622b3ae0.css.map",
+    "main.18c5192a.js.map": "/static/js/main.18c5192a.js.map"
   },
   "entrypoints": [
-    "static/css/main.897a7fd3.css",
-    "static/js/main.871f302d.js"
+    "static/css/main.622b3ae0.css",
+    "static/js/main.18c5192a.js"
   ]
 }
