@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfd077e7.css",
-    "main.js": "/static/js/main.0cdfe585.js",
+    "main.css": "/static/css/main.4e7a949f.css",
+    "main.js": "/static/js/main.741236f9.js",
     "static/media/routes_names.png": "/static/media/routes_names.2f44f6c458bac482a89b.png",
     "static/media/places_names.png": "/static/media/places_names.a67085a6aeb91a1792e1.png",
     "static/media/names.png": "/static/media/names.34bbf1e6f14e6b662d5a.png",
@@ -14,7 +14,7 @@
     "static/media/names_overlayed.png": "/static/media/names_overlayed.02fa22a0d7bbe4f4692d.png",
     "static/media/nhh_process.JPG": "/static/media/nhh_process.6852dfded65008ebac3a.JPG",
     "static/media/create_3.png": "/static/media/create_3.2f8304d91025f75a009f.png",
-    "static/media/flipBrasil.png": "/static/media/flipBrasil.d2f9b286bd83e8a57c6e.png",
+    "static/media/flip_brasil.png": "/static/media/flip_brasil.d2f9b286bd83e8a57c6e.png",
     "static/media/create_2.png": "/static/media/create_2.e31394dbe99220da3a84.png",
     "static/media/info_2.png": "/static/media/info_2.4dff2f38033f505332fa.png",
     "static/media/initial.png": "/static/media/initial.606a1a01be07c3b72443.png",
@@ -24,7 +24,12 @@
     "static/media/start.JPG": "/static/media/start.d9b05169304b69153c76.JPG",
     "static/media/conf_mtx_wordcloud.png": "/static/media/conf_mtx_wordcloud.0c9ee0c261c77920bf63.png",
     "static/media/stupid_ml.png": "/static/media/stupid_ml.d4e3d89c2370edf55326.png",
+    "static/media/fb_flipped.png": "/static/media/fb_flipped.0adaf972460904006b17.png",
     "static/media/explanation.JPG": "/static/media/explanation.6a9009c0cbc67a28cedf.JPG",
+    "static/media/fb_during.png": "/static/media/fb_during.807c37cdc4fee177ace5.png",
+    "static/media/fb_before.png": "/static/media/fb_before.6c35bb4fa9e1f131e051.png",
+    "static/media/fb_start.png": "/static/media/fb_start.4686be71673e34643649.png",
+    "static/media/fb_almost.png": "/static/media/fb_almost.22cc147283a327e87476.png",
     "static/media/self_collection.JPG": "/static/media/self_collection.3201497bf0839254b541.JPG",
     "static/media/self_writing_whole.JPG": "/static/media/self_writing_whole.2e6b5ea3cc9a68eadd18.JPG",
     "static/media/nurses_have_hair.png": "/static/media/nurses_have_hair.ec478009c341379a8791.png",
@@ -46,6 +51,7 @@
     "static/media/self_writing_zoom.png": "/static/media/self_writing_zoom.4eb92d4a8c2710186099.png",
     "static/media/bm1_front.jpg": "/static/media/bm1_front.37c35bf606d6930f4f37.jpg",
     "static/media/TDA_on_Phyllotaxis_Collaboration_Poster.pdf": "/static/media/TDA_on_Phyllotaxis_Collaboration_Poster.26b91f50cd56b646b5f6.pdf",
+    "static/media/interaction.JPG": "/static/media/interaction.52ab3f40bab41e875d7b.JPG",
     "static/media/tripetala.png": "/static/media/tripetala.a94515cc1f7a6baa9bef.png",
     "static/media/dinoWorld.png": "/static/media/dinoWorld.692dc2024cfb72d3badf.png",
     "static/media/shaving.JPG": "/static/media/shaving.3fa9d3372712c17d78ff.JPG",
@@ -82,7 +88,6 @@
     "static/media/example.PNG": "/static/media/example.92e876d70a57e0cdb089.PNG",
     "static/media/r1.PNG": "/static/media/r1.f7622e16550ebbeacf89.PNG",
     "static/media/rule.PNG": "/static/media/rule.50a9222b9d8193c5e800.PNG",
-    "static/media/start.PNG": "/static/media/start.71cfb2d656fe3257de57.PNG",
     "static/media/mystery_pred.png": "/static/media/mystery_pred.da84114195ff1b0d3d43.png",
     "static/media/ai_poster.png": "/static/media/ai_poster.0be25a802bcdde93c10f.png",
     "static/media/guerilla_girl.jpg": "/static/media/guerilla_girl.8b172d82c8dca51ac64b.jpg",
@@ -97,11 +102,11 @@
     "static/media/instagram.svg": "/static/media/instagram.ee7f754d9a9865df8656a316bb9d3df9.svg",
     "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.ca59de7dbde6b9c5565004912352c7f1.svg",
     "static/media/emailIcon.svg": "/static/media/emailIcon.f4793796a6b4e696ef3cd96de241adfd.svg",
-    "main.dfd077e7.css.map": "/static/css/main.dfd077e7.css.map",
-    "main.0cdfe585.js.map": "/static/js/main.0cdfe585.js.map"
+    "main.4e7a949f.css.map": "/static/css/main.4e7a949f.css.map",
+    "main.741236f9.js.map": "/static/js/main.741236f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfd077e7.css",
-    "static/js/main.0cdfe585.js"
+    "static/css/main.4e7a949f.css",
+    "static/js/main.741236f9.js"
   ]
 }
