@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e7a949f.css",
-    "main.js": "/static/js/main.741236f9.js",
+    "main.css": "/static/css/main.81c6fe0d.css",
+    "main.js": "/static/js/main.035ed81e.js",
     "static/media/routes_names.png": "/static/media/routes_names.2f44f6c458bac482a89b.png",
     "static/media/places_names.png": "/static/media/places_names.a67085a6aeb91a1792e1.png",
     "static/media/names.png": "/static/media/names.34bbf1e6f14e6b662d5a.png",
@@ -11,10 +11,11 @@
     "static/media/places.png": "/static/media/places.8fb2d2f5d565be30e56b.png",
     "static/media/final.png": "/static/media/final.bcdd43d4d024cad53041.png",
     "static/media/working.png": "/static/media/working.e7fafe3b09a5be515a4f.png",
+    "static/media/brazil_memory.png": "/static/media/brazil_memory.867055f5cd9633bffd47.png",
     "static/media/names_overlayed.png": "/static/media/names_overlayed.02fa22a0d7bbe4f4692d.png",
     "static/media/nhh_process.JPG": "/static/media/nhh_process.6852dfded65008ebac3a.JPG",
     "static/media/create_3.png": "/static/media/create_3.2f8304d91025f75a009f.png",
-    "static/media/flip_brasil.png": "/static/media/flip_brasil.d2f9b286bd83e8a57c6e.png",
+    "static/media/flip_brazil.png": "/static/media/flip_brazil.d2f9b286bd83e8a57c6e.png",
     "static/media/create_2.png": "/static/media/create_2.e31394dbe99220da3a84.png",
     "static/media/info_2.png": "/static/media/info_2.4dff2f38033f505332fa.png",
     "static/media/initial.png": "/static/media/initial.606a1a01be07c3b72443.png",
@@ -24,15 +25,15 @@
     "static/media/start.JPG": "/static/media/start.d9b05169304b69153c76.JPG",
     "static/media/conf_mtx_wordcloud.png": "/static/media/conf_mtx_wordcloud.0c9ee0c261c77920bf63.png",
     "static/media/stupid_ml.png": "/static/media/stupid_ml.d4e3d89c2370edf55326.png",
-    "static/media/fb_flipped.png": "/static/media/fb_flipped.0adaf972460904006b17.png",
     "static/media/explanation.JPG": "/static/media/explanation.6a9009c0cbc67a28cedf.JPG",
-    "static/media/fb_during.png": "/static/media/fb_during.807c37cdc4fee177ace5.png",
-    "static/media/fb_before.png": "/static/media/fb_before.6c35bb4fa9e1f131e051.png",
-    "static/media/fb_start.png": "/static/media/fb_start.4686be71673e34643649.png",
-    "static/media/fb_almost.png": "/static/media/fb_almost.22cc147283a327e87476.png",
+    "static/media/fb_during.png": "/static/media/fb_during.3a33a91e94185f62a673.png",
+    "static/media/fb_flipped.png": "/static/media/fb_flipped.83b269b7746158612bf2.png",
+    "static/media/fb_initial.png": "/static/media/fb_initial.5ad459f00b6f72258d9e.png",
     "static/media/self_collection.JPG": "/static/media/self_collection.3201497bf0839254b541.JPG",
+    "static/media/fb_almost.png": "/static/media/fb_almost.b8399c5f726056e4a737.png",
     "static/media/self_writing_whole.JPG": "/static/media/self_writing_whole.2e6b5ea3cc9a68eadd18.JPG",
     "static/media/nurses_have_hair.png": "/static/media/nurses_have_hair.ec478009c341379a8791.png",
+    "static/media/fb_start.png": "/static/media/fb_start.fe42ab759af660644b4e.png",
     "static/media/bm2_side.JPG": "/static/media/bm2_side.f8501ba3a77956ab44c5.JPG",
     "static/media/bm2_front.JPG": "/static/media/bm2_front.9f9fa0e93b2fd44e6329.JPG",
     "static/media/exploreCSR.png": "/static/media/exploreCSR.a257f8975d6b815ff546.png",
@@ -102,11 +103,11 @@
     "static/media/instagram.svg": "/static/media/instagram.ee7f754d9a9865df8656a316bb9d3df9.svg",
     "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.ca59de7dbde6b9c5565004912352c7f1.svg",
     "static/media/emailIcon.svg": "/static/media/emailIcon.f4793796a6b4e696ef3cd96de241adfd.svg",
-    "main.4e7a949f.css.map": "/static/css/main.4e7a949f.css.map",
-    "main.741236f9.js.map": "/static/js/main.741236f9.js.map"
+    "main.81c6fe0d.css.map": "/static/css/main.81c6fe0d.css.map",
+    "main.035ed81e.js.map": "/static/js/main.035ed81e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e7a949f.css",
-    "static/js/main.741236f9.js"
+    "static/css/main.81c6fe0d.css",
+    "static/js/main.035ed81e.js"
   ]
 }
