@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.74b6c9e4.css",
-    "main.js": "/static/js/main.355638b2.js",
+    "main.js": "/static/js/main.eddb32e0.js",
     "static/media/setup.png": "/static/media/setup.fcf98871cda13d33a33e.png",
     "static/media/routes_names.png": "/static/media/routes_names.2f44f6c458bac482a89b.png",
     "static/media/places_names.png": "/static/media/places_names.a67085a6aeb91a1792e1.png",
@@ -26,6 +26,7 @@
     "static/media/create_1.JPG": "/static/media/create_1.45e6528bc6768255333f.JPG",
     "static/media/boymother1.JPG": "/static/media/boymother1.2337a6c7ce38c84766e1.JPG",
     "static/media/start.JPG": "/static/media/start.d9b05169304b69153c76.JPG",
+    "static/media/CS325_Team_JAYC_Poster.pdf": "/static/media/CS325_Team_JAYC_Poster.c6c17460dfbffef813ce.pdf",
     "static/media/conf_mtx_wordcloud.png": "/static/media/conf_mtx_wordcloud.0c9ee0c261c77920bf63.png",
     "static/media/stupid_ml.png": "/static/media/stupid_ml.d4e3d89c2370edf55326.png",
     "static/media/explanation.JPG": "/static/media/explanation.6a9009c0cbc67a28cedf.JPG",
@@ -65,9 +66,11 @@
     "static/media/hexagons.png": "/static/media/hexagons.640f9c5685f816645d68.png",
     "static/media/NYBG_data_snippet.png": "/static/media/NYBG_data_snippet.2e58f9cf1607e16c0157.png",
     "static/media/makersmap.png": "/static/media/makersmap.107297fa947506d6f185.png",
+    "static/media/key_features.png": "/static/media/key_features.eacedfa174e0775fa0a3.png",
     "static/media/wechat_prototype.png": "/static/media/wechat_prototype.b8f602299b07c9bf1565.png",
     "static/media/Sample_from_Data.png": "/static/media/Sample_from_Data.ab3e69fb93e7ed6d1a5e.png",
     "static/media/myster_art_recognizer.png": "/static/media/myster_art_recognizer.ab3e69fb93e7ed6d1a5e.png",
+    "static/media/interfaces.png": "/static/media/interfaces.e38c5898a82faa14e8c4.png",
     "static/media/Image_Augmentation.png": "/static/media/Image_Augmentation.5f0437c670e214e7b69f.png",
     "static/media/disk_stacking_origin.png": "/static/media/disk_stacking_origin.32c7e216c0fa369a4835.png",
     "static/media/SkunkCabbage00_persistence.gif": "/static/media/SkunkCabbage00_persistence.3e33685c77253ac6f686.gif",
@@ -85,6 +88,7 @@
     "static/media/programmed.PNG": "/static/media/programmed.d0fd4680f55d60cfbf09.PNG",
     "static/media/approach.png": "/static/media/approach.ea5ffb234768fd47f719.png",
     "static/media/papunya_tula.jpg": "/static/media/papunya_tula.b828cecee7d3dcd6875c.jpg",
+    "static/media/wireframe.png": "/static/media/wireframe.d9640d158503d482ab35.png",
     "static/media/Thesis_Proposal-Yuhan_Wang.pdf": "/static/media/Thesis_Proposal-Yuhan_Wang.06af5db387a720bdcc4b.pdf",
     "static/media/sml_end.png": "/static/media/sml_end.492ae0f55a903006c912.png",
     "static/media/final.PNG": "/static/media/final.6fb78c391c61f2aba0b1.PNG",
@@ -107,16 +111,15 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "static/media/githubIcon.svg": "/static/media/githubIcon.a452778022c6c5426de161a44565c1e9.svg",
-    "static/media/arrow.svg": "/static/media/arrow.9f18f949df8904767d9cdc8745ce41a0.svg",
     "static/media/cvIcon.svg": "/static/media/cvIcon.0f1719b8f840e4defd78b500cdcd28fa.svg",
     "static/media/instagram.svg": "/static/media/instagram.ee7f754d9a9865df8656a316bb9d3df9.svg",
     "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.ca59de7dbde6b9c5565004912352c7f1.svg",
     "static/media/emailIcon.svg": "/static/media/emailIcon.f4793796a6b4e696ef3cd96de241adfd.svg",
     "main.74b6c9e4.css.map": "/static/css/main.74b6c9e4.css.map",
-    "main.355638b2.js.map": "/static/js/main.355638b2.js.map"
+    "main.eddb32e0.js.map": "/static/js/main.eddb32e0.js.map"
   },
   "entrypoints": [
     "static/css/main.74b6c9e4.css",
-    "static/js/main.355638b2.js"
+    "static/js/main.eddb32e0.js"
   ]
 }
