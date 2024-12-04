@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.74b6c9e4.css",
-    "main.js": "/static/js/main.221c9efd.js",
+    "main.js": "/static/js/main.355638b2.js",
+    "static/media/setup.png": "/static/media/setup.fcf98871cda13d33a33e.png",
     "static/media/routes_names.png": "/static/media/routes_names.2f44f6c458bac482a89b.png",
     "static/media/places_names.png": "/static/media/places_names.a67085a6aeb91a1792e1.png",
     "static/media/names.png": "/static/media/names.34bbf1e6f14e6b662d5a.png",
@@ -11,6 +12,8 @@
     "static/media/places.png": "/static/media/places.8fb2d2f5d565be30e56b.png",
     "static/media/final.png": "/static/media/final.bcdd43d4d024cad53041.png",
     "static/media/working.png": "/static/media/working.e7fafe3b09a5be515a4f.png",
+    "static/media/sideview.png": "/static/media/sideview.3c7e59c0a6215773a625.png",
+    "static/media/is_name.png": "/static/media/is_name.8b6eeb45411520e27ad2.png",
     "static/media/brazil_memory.png": "/static/media/brazil_memory.867055f5cd9633bffd47.png",
     "static/media/names_overlayed.png": "/static/media/names_overlayed.02fa22a0d7bbe4f4692d.png",
     "static/media/nhh_process.JPG": "/static/media/nhh_process.6852dfded65008ebac3a.JPG",
@@ -73,6 +76,7 @@
     "static/media/Tripetala03_persistence.gif": "/static/media/Tripetala03_persistence.6e4417125d85efa01402.gif",
     "static/media/profile.jpg": "/static/media/profile.cc6adbbddeb96dc9f7c0.jpg",
     "static/media/megatile.png": "/static/media/megatile.4b0dbaa3d44ae57b3e82.png",
+    "static/media/info_ideal.jpg": "/static/media/info_ideal.7f9646c45a4ddf9ccffe.jpg",
     "static/media/line_art_cropped.jpeg": "/static/media/line_art_cropped.b1fa0e50a01616dcd0ed.jpeg",
     "static/media/2model_vis_conf.png": "/static/media/2model_vis_conf.d79b19788bc7f4d2287d.png",
     "static/media/2model_vis_bar.png": "/static/media/2model_vis_bar.99a7e09efbf47f16743e.png",
@@ -109,10 +113,10 @@
     "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.ca59de7dbde6b9c5565004912352c7f1.svg",
     "static/media/emailIcon.svg": "/static/media/emailIcon.f4793796a6b4e696ef3cd96de241adfd.svg",
     "main.74b6c9e4.css.map": "/static/css/main.74b6c9e4.css.map",
-    "main.221c9efd.js.map": "/static/js/main.221c9efd.js.map"
+    "main.355638b2.js.map": "/static/js/main.355638b2.js.map"
   },
   "entrypoints": [
     "static/css/main.74b6c9e4.css",
-    "static/js/main.221c9efd.js"
+    "static/js/main.355638b2.js"
   ]
 }
