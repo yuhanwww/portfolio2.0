@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.257475ec.css",
-    "main.js": "/static/js/main.f53059bd.js",
+    "main.css": "/static/css/main.44d1071a.css",
+    "main.js": "/static/js/main.82a53740.js",
     "static/media/Milestone_2.pdf": "/static/media/Milestone_2.419ba4334b0331e35d00.pdf",
     "static/media/setup.png": "/static/media/setup.fcf98871cda13d33a33e.png",
     "static/media/routes_names.png": "/static/media/routes_names.2f44f6c458bac482a89b.png",
@@ -71,17 +71,20 @@
     "static/media/NYBG_data_snippet.png": "/static/media/NYBG_data_snippet.2e58f9cf1607e16c0157.png",
     "static/media/makersmap.png": "/static/media/makersmap.107297fa947506d6f185.png",
     "static/media/key_features.png": "/static/media/key_features.582fd3c940285d22dcc5.png",
+    "static/media/round1.gif": "/static/media/round1.e83276eae35d1ac3e41c.gif",
     "static/media/WeChat_improved.pdf": "/static/media/WeChat_improved.fe12cdd3dc515db4ddaf.pdf",
     "static/media/Sample_from_Data.png": "/static/media/Sample_from_Data.ab3e69fb93e7ed6d1a5e.png",
     "static/media/myster_art_recognizer.png": "/static/media/myster_art_recognizer.ab3e69fb93e7ed6d1a5e.png",
     "static/media/interfaces.png": "/static/media/interfaces.e38c5898a82faa14e8c4.png",
     "static/media/wechat_prototype.png": "/static/media/wechat_prototype.b24def0f728fcac32342.png",
     "static/media/Image_Augmentation.png": "/static/media/Image_Augmentation.5f0437c670e214e7b69f.png",
+    "static/media/round2.gif": "/static/media/round2.c8ce3c6b44aaec0f452a.gif",
     "static/media/disk_stacking_origin.png": "/static/media/disk_stacking_origin.32c7e216c0fa369a4835.png",
     "static/media/SkunkCabbage00_persistence.gif": "/static/media/SkunkCabbage00_persistence.3e33685c77253ac6f686.gif",
     "static/media/2model_comparison.png": "/static/media/2model_comparison.56e4537bcd8f6e0ca07d.png",
     "static/media/example_disk.png": "/static/media/example_disk.61f0aab8bc4af2474a43.png",
     "static/media/Tripetala03_persistence.gif": "/static/media/Tripetala03_persistence.6e4417125d85efa01402.gif",
+    "static/media/round3.gif": "/static/media/round3.ea05f890d1aca0d55c87.gif",
     "static/media/profile.jpg": "/static/media/profile.cc6adbbddeb96dc9f7c0.jpg",
     "static/media/megatile.png": "/static/media/megatile.4b0dbaa3d44ae57b3e82.png",
     "static/media/info_ideal.jpg": "/static/media/info_ideal.7f9646c45a4ddf9ccffe.jpg",
@@ -100,12 +103,14 @@
     "static/media/logo.png": "/static/media/logo.92eda1a35cf26fa431cf.png",
     "static/media/sml_input.png": "/static/media/sml_input.ac60a8e53fdf529b91d5.png",
     "static/media/CV_Yuhan_Wang.pdf": "/static/media/CV_Yuhan_Wang.b6a1dc544b5c708afa35.pdf",
+    "static/media/r3.png": "/static/media/r3.a752c9c0a384ffa88933.png",
     "static/media/sml_start.png": "/static/media/sml_start.fb7435be93557ac6b12c.png",
-    "static/media/r2.PNG": "/static/media/r2.48fc5788e6fd219e3481.PNG",
     "static/media/example.PNG": "/static/media/example.92e876d70a57e0cdb089.PNG",
     "static/media/sml_almost.png": "/static/media/sml_almost.e08d66eba07353aaa487.png",
     "static/media/prototype_qr.png": "/static/media/prototype_qr.b3bddd4a5cad7c26c3b6.png",
+    "static/media/reveal.PNG": "/static/media/reveal.3da0e78ee657f3351c8f.PNG",
     "static/media/r1.PNG": "/static/media/r1.f7622e16550ebbeacf89.PNG",
+    "static/media/r2.PNG": "/static/media/r2.8f10d65faee4ad1bf01b.PNG",
     "static/media/yrp_qr_code.png": "/static/media/yrp_qr_code.6cb127cccbbeeee0878e.png",
     "static/media/rule.PNG": "/static/media/rule.50a9222b9d8193c5e800.PNG",
     "static/media/sml_rule.png": "/static/media/sml_rule.4bb93abd40138e6e84c7.png",
@@ -122,11 +127,11 @@
     "static/media/instagram.svg": "/static/media/instagram.ee7f754d9a9865df8656a316bb9d3df9.svg",
     "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.ca59de7dbde6b9c5565004912352c7f1.svg",
     "static/media/emailIcon.svg": "/static/media/emailIcon.f4793796a6b4e696ef3cd96de241adfd.svg",
-    "main.257475ec.css.map": "/static/css/main.257475ec.css.map",
-    "main.f53059bd.js.map": "/static/js/main.f53059bd.js.map"
+    "main.44d1071a.css.map": "/static/css/main.44d1071a.css.map",
+    "main.82a53740.js.map": "/static/js/main.82a53740.js.map"
   },
   "entrypoints": [
-    "static/css/main.257475ec.css",
-    "static/js/main.f53059bd.js"
+    "static/css/main.44d1071a.css",
+    "static/js/main.82a53740.js"
   ]
 }
