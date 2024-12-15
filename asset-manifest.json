@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc18b33c.css",
-    "main.js": "/static/js/main.caa28c74.js",
+    "main.css": "/static/css/main.a9fd4385.css",
+    "main.js": "/static/js/main.6c96f949.js",
     "static/media/Milestone_2.pdf": "/static/media/Milestone_2.419ba4334b0331e35d00.pdf",
     "static/media/synchro_you.png": "/static/media/synchro_you.9c49d64bbf07916c0b61.png",
     "static/media/fight.png": "/static/media/fight.03ddd969325aa9df824a.png",
@@ -227,11 +227,11 @@
     "static/media/instagram.svg": "/static/media/instagram.ee7f754d9a9865df8656a316bb9d3df9.svg",
     "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.ca59de7dbde6b9c5565004912352c7f1.svg",
     "static/media/emailIcon.svg": "/static/media/emailIcon.f4793796a6b4e696ef3cd96de241adfd.svg",
-    "main.bc18b33c.css.map": "/static/css/main.bc18b33c.css.map",
-    "main.caa28c74.js.map": "/static/js/main.caa28c74.js.map"
+    "main.a9fd4385.css.map": "/static/css/main.a9fd4385.css.map",
+    "main.6c96f949.js.map": "/static/js/main.6c96f949.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc18b33c.css",
-    "static/js/main.caa28c74.js"
+    "static/css/main.a9fd4385.css",
+    "static/js/main.6c96f949.js"
   ]
 }
